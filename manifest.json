@@ -1,0 +1,21 @@
+{
+    "manifest_version":2,
+    "version":"1.0",
+    "name":"Test Correct Time-Zone Finder",
+    "content_scripts":[
+        {
+         "matches":["*://mail.google.com/*"],
+         "js":["main.js"]
+        }
+      ],
+    
+      
+    "browser_action":{
+        "default_icon":{
+          "25":"time_zone.png"
+        }
+       }
+
+
+  }
+  
