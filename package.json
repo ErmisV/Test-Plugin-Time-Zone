@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "moment": "^2.29.4"
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.41",
+    "spacetime": "^7.4.1"
   }
 }
