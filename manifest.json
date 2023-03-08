@@ -12,10 +12,11 @@
       
     "browser_action":{
         "default_icon":{
-          "25":"time_zone.png"
+          "25": "time_zone.png"
         }
-       }
+    }
 
+    
 
   }
   
